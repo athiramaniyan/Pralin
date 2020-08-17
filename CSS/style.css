@@ -1,0 +1,81 @@
+.container-fluid{
+    padding: 2% 10%;
+}
+h1,h2{
+    font-family: Montserrat;
+    font-size: 3rem;
+    padding: 3% 0 0.1% 0;
+    text-align: center;
+}
+hr{
+    border-style: dotted;
+    width: 50%;
+    background-color: black;
+}
+img{
+    height: 6rem;
+}
+#Title{
+    background-color: #3b2e5a;
+    color: #ffffff; 
+    font-family: 'Montserrat-Light'; 
+}
+#title-image{
+    left: 5%;   
+}
+#title-text{
+    right: 20%;
+    font-family: 'Montserrat';
+    padding: 2.5% 0;
+    line-height: 0.5rem;
+}
+#title-contact{
+    padding: 2%;
+    left: 15%;
+    font-family: 'Montserrat-Light';
+}
+.carousel-image{
+    height: 30rem;
+    width: 100%;
+    margin: 0 0 0 0;
+}
+#about-image{
+    width: 80%;
+    height: 400px;
+    border-radius: 10%;
+}
+#about-text{
+    margin-top: 2%;
+    padding: 3% 5%;
+    font-family: 'Ubuntu';
+}
+#abt-image{
+    margin-top: 2%;
+    padding: 6% 3%;
+}
+/*services*/
+#services{
+    background-color: #3b2e5a;
+    color: #ffffff;
+}
+.service-hr{
+    background-color: #ffffff;
+}
+.service-image{
+    padding: 2%;
+    border-radius: 100%;
+    height: 200px;
+}
+.service-box{
+    padding: 2% 7.5%;
+}
+.service-text{
+    padding: 10%;
+    font-size: 1.5rem;
+}
+.service-btn{
+    color: white;
+}
+.service-p{
+    padding: 0 0 0 22%
+}
